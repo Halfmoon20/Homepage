@@ -1,0 +1,11 @@
+#Mainbody{width: 100%;height: 600px;background-color: #FAFAFA;position: absolute;}
+#back{height: 600px;margin-left: 200px;}
+#Page{width: 400px;height: 500px;background-color: rgb(255, 186, 0, 0.9);position: absolute;margin-top: -500px;margin-left: 400px;}
+#logo{height: 40px;margin-left: 250px;margin-top: 50px;color: #FFFBEA;background-color: #FFFBEA;}
+#text1{margin-left: 20px;color: #55473E;}
+#text2{margin-left: 20px;color: #55473E;}
+#username{margin-left: 20px;font-size: 13px;}
+#username2{width: 265px;height: 27px;border-radius: 50px;margin-top: 30px;border: #FFFFFF;}
+#password{margin-left: 20px;font-size: 13px;}
+#password2{width: 265px;height: 27px;border-radius: 50px;margin-left: 5px;margin-top: 17px;border: #FFFFFF;}
+#login{width: 345px;margin-left: 22px;margin-top: 25px;height: 50px;background-color: #313E44;color: aliceblue;box-shadow: #FFFBEA;border: #FFFBEA;}
